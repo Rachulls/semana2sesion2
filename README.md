@@ -6,7 +6,10 @@ Tipos de etiqueta:
 2. Self closing : En este tipo no es necesario una etiqueta de cierre ya que se cierra en su misma etiqueta de apertura.
     <img />
     <input /> 
-3. Bloque : Ocupa todo el espacio en horizontal.
+3. Encabezados : Se usa para definir 1 titulo y subtitulos.
+    <h1>TITULO</h1>
+    <h2>SUBTITULO</h2>
+4. Bloque : Ocupa todo el espacio en horizontal.
     <h1>HOLA</h1>
-4. Inline : Solamente ocupa el espacio del contenido.
+5. Inline : Solamente ocupa el espacio del contenido.
     <p>Es una prueba</p>
