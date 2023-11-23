@@ -2,10 +2,9 @@
 Concepto: Son fragmentos de codigo donde mostraran la informacion de una pagina web.
 Tipos de etiqueta: 
 1. De apertura y cierre : Este tipo tiene una etiqueta de apertura y una de cierre. 
-    <h1></h1>
+    <h1>Hola</h1>
 2. Self closing : En este tipo no es necesario una etiqueta de cierre ya que se cierra en su misma etiqueta de apertura.
-    <img />
-    <input /> 
+    <img src="img1.jpg"/>
 3. Encabezados : Se usa para definir 1 titulo y subtitulos.
     <h1>TITULO</h1>
     <h2>SUBTITULO</h2>
