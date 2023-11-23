@@ -7,4 +7,6 @@ Tipos de etiqueta:
     <img />
     <input /> 
 3. Bloque : Ocupa todo el espacio en horizontal.
+    <h1>HOLA</h1>
 4. Inline : Solamente ocupa el espacio del contenido.
+    <p>Es una prueba</p>
