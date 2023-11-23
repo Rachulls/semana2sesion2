@@ -1,1 +1,10 @@
-# semana2sesion2
+## ETIQUETA
+Concepto: Son fragmentos de codigo donde mostraran la informacion de una pagina web.
+Tipos de etiqueta: 
+1. De apertura y cierre : Este tipo tiene una etiqueta de apertura y una de cierre. 
+    <h1></h1>
+2. Self closing : En este tipo no es necesario una etiqueta de cierre ya que se cierra en su misma etiqueta de apertura.
+    <img />
+    <input /> 
+3. Bloque : Ocupa todo el espacio en horizontal.
+4. Inline : Solamente ocupa el espacio del contenido.
